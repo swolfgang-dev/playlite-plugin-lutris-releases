@@ -1,7 +1,7 @@
 {
   "id": "Lutris",
   "name": "Lutris Integration",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Import, register, launch, and detect Lutris games, with playtime tracking.",
   "minimum_playlite_version": "0.2.8",
   "repository": "swolfgang-dev/playlite-plugin-lutris-releases"
